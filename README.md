@@ -1,1 +1,1 @@
-# super-octo-fortnightJust an example repo
+# super-octo-fortnight
